@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "ts-node": "^10.8.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.1",
+    "jest": "^28.1.0",
+    "ts-jest": "^28.0.3"
+  },
+  "name": "tasks",
+  "version": "1.0.0",
+  "main": "palindrom.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
